@@ -93,3 +93,5 @@ For matrices with optical switches when key is held the read pin values is 1 ins
 ```
 #define PIN_HIGH_WHEN_KEY_HELD 1
 ```
+
+.
